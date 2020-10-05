@@ -8,4 +8,7 @@ thank u!
 
 just a repository
 
+dev branch change this file.
+right now.
+
 [gitHub 新手引导](https://guides.github.com/activities/hello-world/)
